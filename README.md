@@ -41,7 +41,7 @@ Make sure you have **Node.js** installed.
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/Harishparley/chai_culture_task
-    cd chai-culture-landing
+    cd chai_culture_task
     ```
 
 2.  **Install dependencies**
