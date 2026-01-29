@@ -2,7 +2,7 @@
 
 A high-fidelity, responsive landing page designed for **Chai Culture**, a US-based premium instant chai brand. This project focuses on delivering a "Royal" aesthetic using a deep brown and gold color palette, sophisticated typography, and modern CSS layout techniques.
 
-🔗 **Live Demo:** [INSERT YOUR VERCEL LINK HERE]
+🔗 **Live Demo:** https://chaiculturelanding.vercel.app
 
 ---
 
