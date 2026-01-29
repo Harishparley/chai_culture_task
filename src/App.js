@@ -7,7 +7,7 @@ const flavorData = [
   { id: 1, name: "Cardamom (Elaichi) Chai", img: "/elaichi.png" },
   { id: 2, name: "Ginger (Adrak) Chai",     img: "/adarak.png" },
   { id: 3, name: "Masala Chai",              img: "/masala.png" },
-  { id: 4, name: "Cinnamon (Dalchini) Chai", img: "/cinnamon.png" },
+  { id: 4, name: "Holy Basil (Tulsi) Chai", img: "/tulsi.png" },
   { id: 5, name: "Rose (Gulab) Chai",       img: "/rose.png" },
 ];
 
@@ -30,10 +30,8 @@ function App() {
         {/* --- HERO SECTION --- */}
         <div className="hero-content">
           <div className="logo-container">
-            {/* Make sure logo.png is in your public folder */}
             <img src="/logo.png" alt="Chai Culture Logo" className="logo" />
-             {/* If you want the text next to logo, uncomment below, otherwise keep it clean */}
-            {/* <h1 className="brand-name">CHAI CULTURE</h1> */}
+            <h2 className="brand-name">CHAI CULTURE</h2>
           </div>
 
           <h1 className="tagline">Brew the Royal Tradition</h1>
